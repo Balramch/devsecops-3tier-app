@@ -126,7 +126,7 @@ This project was systematically hardened using industry-standard DevSecOps tooli
 ### 🚀 Run the Stack
 
 git clone https://github.com/Balramch/devsecops-3tier-app.git
-cd CRUD-three-tier/infrra  
+cd devsecops-3tier-app/infrra  
 docker compose up -d --build
 
 ---
